@@ -1,0 +1,24 @@
+{
+  "repositories": [
+    {
+      "url": "https://www.nexusmods.com/witcher3/mods/5722",
+      "description": "a patch for AMM that changes how AMM loads the resources, making it asynchronous and thus the freezes you usually get when the game loads the new appearances. This is a patch to the original mod and still requires AMM to be installed.",
+      "openGraphImageUrl": "https://staticdelivery.nexusmods.com/mods/952/images/5722/5722-1620645364-1995801741.png",
+      "name": "AMM patch - asynchronous loading",
+      "discussions": "https://www.nexusmods.com/witcher3/mods/5722?tab=posts",
+      "owner": {
+        "login": "Aelto"
+      }
+    },
+    {
+      "url": "https://www.nexusmods.com/witcher3/mods/5304",
+      "description": "An addon to the mod PhotoMode 2inOne for Debug Console Enabler to gain access to console commands with the same feature. To use alongside the photomode mod.",
+      "openGraphImageUrl": "https://staticdelivery.nexusmods.com/mods/952/images/5304/5304-1605910564-1425888064.png",
+      "name": "Photomode 2InOne - Console commands",
+      "discussions": "https://www.nexusmods.com/witcher3/mods/5304?tab=posts",
+      "owner": {
+        "login": "Aelto"
+      }
+    }
+  ]
+}
